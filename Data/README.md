@@ -12,5 +12,6 @@ This includes data of:
 
 
 [Footwear Data](https://www.stardewvalleywiki.com/Footwear)
------------
+
+
 etc...
